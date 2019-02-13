@@ -1,5 +1,5 @@
 # CBenchmark
-Small multi-threaded CPU benchmark written in C
+Small multi-threaded CPU benchmark written in C.
 Stresses CPU cores by verifying perfect number
 
 # Build and run
