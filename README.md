@@ -6,4 +6,4 @@ Stresses CPU cores by verifying perfect number
 # Build and run
 gcc CBenchmark.c -lm -o CBenchmark.out
 
-time ./CBenchmark.out <NrOfThreads>
+time ./CBenchmark.out 4 (Replace with how many threads to benchmark)
